@@ -1,3 +1,3 @@
-public class Packet {
+public class Packets {
     
 }
